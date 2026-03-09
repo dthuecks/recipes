@@ -11,8 +11,7 @@
         </p>
     </introduction>
 
-    <subsection>
-        <title>Final assembly</title>
+    
 
         <paragraphs>
             <title>Ingredients</title>
@@ -39,13 +38,13 @@
                     <li>
                         <title>Pizza dough</title>
                         <p>
-                            One, stretched and cured
+                            One, stretched and cured according to <xref ref="subsec-chicago-tavern-dough" text="custom"> recipe </xref>
                         </p>
                     </li>
                     <li>
                         <title>Pizza Sauce</title>
                         <p>
-                            1/4 to 1 cup
+                            1/4 to 1 cup, from <xref ref="subsec-chicago-tavern-sauce" text="custom"> recipe </xref>
                         </p>
                     </li>
                     <li>
@@ -63,7 +62,7 @@
                     <li>
                         <title>Italian Sausage</title>
                         <p>
-                            8 ounces
+                            8 ounces, according to according to <xref ref="subsec-chicago-tavern-sausage" text="custom"> recipe </xref>
                         </p>
                     </li>
                 </dl>
@@ -123,9 +122,11 @@
             </p>
             
         </paragraphs>
-    </subsection>
+    
+    
+    
     <subsection xml:id="subsec-chicago-tavern-dough">
-        <title>Pizza Dough</title>
+        <title>Pizza dough</title>
         <p>
             <dl>
                 <li>
@@ -255,7 +256,193 @@
         </paragraphs>
         
     </subsection>
+
+    <subsection xml:id="subsec-chicago-tavern-sauce">
+        <title>Pizza sauce</title>
+
+        <paragraphs>
+            <title>Ingredients</title>
+            <p></p>
+            <p>
+                <alert>Yield:</alert> About 4 cups (enough for 4 to 6 pizzas)
+            </p>
+            <p>
+                <dl>
+                    <li>
+                        <title>Whole peeled tomatoes with their juices</title>
+                        <p>
+                            One 28-ounce can
+                        </p>
+                    </li>
+                    <li>
+                        <title>Tomato paste</title>
+                        <p>
+                            6 ounces
+                        </p>
+                    </li>
+                    <li>
+                        <title>Fresh garlic</title>
+                        <p>
+                            4 medium cloves, minced
+                        </p>
+                    </li>
+                    <li>
+                        <title>Extra-virgin olive oil</title>
+                        <p>
+                            2 tablespoons
+                        </p>
+                    </li>
+                    <li>
+                        <title>Dried Italian seasoning</title>
+                        <p>
+                            2 tablespoons
+                        </p>
+                    </li>
+                    <li>
+                        <title>Granulated sugar</title>
+                        <p>
+                            1 tablespoon
+                        </p>
+                    </li>
+                    <li>
+                        <title>Red-wine vinegar</title>
+                        <p>
+                            2 teaspoons
+                        </p>
+                    </li>
+                    <li>
+                        <title>Garlic powder</title>
+                        <p>
+                            2 teaspoons
+                        </p>
+                    </li>
+                    <li>
+                        <title>Kosher salt</title>
+                        <p>
+                            1 teaspoon
+                        </p>
+                    </li>
+                </dl>
+            </p> 
+        </paragraphs>
+
+        <paragraphs>
+            <title>Steps</title>
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            Combine all ingredients in a blender or food processor, and pulse until mostly smooth but a few small bits of tomato remain. Store in a sealed container in the refrigerator for up to 1 week. 
+                        </p>
+                    </li>
+                </ol>
+            </p>
+                   
+            <p>
+                <alert>Tips:</alert> 
+                <ol>
+                    <li>
+                        <p>
+                            Dried Italian seasoning is important here, as is garlic powder. If you prefer, you can use a mixture of any or all of oregano, marjoram, thyme, basil, parsley and rosemary, dried or fresh, in place of the Italian seasoning.
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </paragraphs>
+    </subsection>
     
+    
+    <subsection xml:id="subsec-chicago-tavern-sausage">
+        <title>Italian sausage</title>
+
+        <paragraphs>
+            <title>Ingredients</title>
+            <p></p>
+            <p>
+                <alert>Yield:</alert> 1 pound
+            </p>
+            <p>
+                <dl>
+                    <li>
+                        <title>Whole dried fennel seeds</title>
+                        <p>
+                            1 tablespoon
+                        </p>
+                    </li>
+                    <li>
+                        <title>Ground pork shoulder</title>
+                        <p>
+                            1 pound
+                        </p>
+                    </li>
+                    <li>
+                        <title>Fresh garlic</title>
+                        <p>
+                            4 medium cloves, finely minced
+                        </p>
+                    </li>
+                    <li>
+                        <title>Salt</title>
+                        <p>
+                            7 grams (about 2 teaspoons Diamond Crystal kosher salt, 1.5 teaspoons Morton's coarse kosher salt or 1 teaspoon table salt)
+                        </p>
+                    </li>
+                    <li>
+                        <title>Garlic powder</title>
+                        <p>
+                            2 teaspoons
+                        </p>
+                    </li>
+                    <li>
+                        <title>Dried oregano</title>
+                        <p>
+                            2 teaspoons
+                        </p>
+                    </li>
+                    <li>
+                        <title>Dried Marjoram</title>
+                        <p>
+                            1 teaspoon
+                        </p>
+                    </li>
+                    <li>
+                        <title>Ground black pepper</title>
+                        <p>
+                            1/2 teaspoon
+                        </p>
+                    </li>
+                    <li>
+                        <title>Red-pepper flakes</title>
+                        <p>
+                            One large pinch
+                        </p>
+                    </li>
+                </dl>
+            </p>   
+        </paragraphs>
+
+        <paragraphs>
+            <title>Steps</title>
+
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            <alert>Prepare the sausage:</alert> Heat the fennel seeds in a dry skillet over medium heat, stirring frequently, until lightly toasted and very aromatic. Transfer to a mortar and pestle or spice grinder and lightly crush.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <alert>Assemble:</alert> Combine the pork, fresh garlic, salt, garlic powder, oregano, marjoram, black pepper, pepper flakes, and toasted fennel in a large bowl. Knead aggressively with your hands until the mixture turns tacky and leaves a film behind on the bowl, a couple of minutes. (Alternatively, make the sausage in a stand mixer fitted with a paddle attachment. Knead the mixture at low speed until it forms a film on the inside of the bowl as instructed in Step 2.) Transfer to a sealed container and store in the refrigerator for up to 1 week until ready to use. You will have enough for 2 pizzas.
+                        </p>
+                    </li>
+                </ol>
+            </p>
+            
+        </paragraphs>
+
+    </subsection>
+
 
     
 
