@@ -1,8 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-pizza-pequods" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Pequod's-style pizza</title>
+    <title>Pequod's-style deep dish pizza</title>
 
+    <p>
+        <ol>
+            <li>
+                <p>
+                    Prepare pizza crust and sauce according to recipes below.
+                </p>
+            </li>
+            <li>
+                <p>
+                    After the dough rise, punch and let the dough relax for 10 minutes or so to let the gluten relax.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Now you can either roll it out with a rolling pin, or stretch it by hand into a circle that will cover the bottom of a 9-inch cast iron pan. Do not let the dough rise again in the pan. Stab all over with a fork to help prevent it from bubbling during the bake. At this point, you can either par-bake the crust for 10 minutes in a 450 degree oven.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Lay sliced mozzarella on top of the dough, starting with the outer cheese slices, hanging half against the inside wall of the pan, then cover the center bottom with sliced mozzarella until you have a solid layer. [PIC TO COME]
+                </p>
+            </li>
+            <li>
+                <p>
+                    Cover the layer of mozzarella with a generous amount of sauce (recipe below). Ensure that the sauce is spread all the way to the edge of the pan.
+                </p>
+            </li>
+            <li>
+                <p>
+                    Add toppings/fillings:
+                    <ul>
+                        <li>
+                            <p>
+                                <alert>Pepperoni and sausage:</alert> Spread pepperoni and quarter-size chunks of raw italian sausage.
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <alert>Veggie:</alert> Top with chopped broccoli, red and orange bell peppers, and scallion whites. Reserve the scallion greens for topping the pizza after the bake and before serving.
+                            </p>
+                        </li>
+                    </ul>
+                </p>
+            </li>
+            <li>
+                <p>
+                    Bake at 450 for 35-40 minutes --less if par-baked-- until done. Less also if you cook it in a convection oven. The finished pizza crust should be golden brown and the mozzarella around the edge of the pan should be blackened and carmelized.
+                </p>
+            </li>
+        </ol>
+    </p> 
+
+    <subsection xml:id="subsec-pequods-crust">
+        <title>Pizza crust</title>
+        
+        <paragraphs>
+            <title>Ingredients</title>
+            <p></p>
+            <p>
+                <alert>Yield:</alert> One 9"-10" pizza
+            </p>
+            <p>            
+                <dl>
+                    <li>
+                        <title>All-purpose flour</title>
+                        <p>
+                            1.25 cups
+                        </p>
+                    </li>
+                    <li>
+                        <title>Yeast</title>
+                        <p>
+                            0.75 teaspoon
+                        </p>
+                    </li>
+                    <li>
+                        <title>Water</title>
+                        <p>
+                            6 tablespoons of water
+                        </p>
+                    </li>
+                    <li>
+                        <title>Sugar</title>
+                        <p>
+                            0.6 teaspoon
+                        </p>
+                    </li>
+                    <li>
+                        <title>Kosher salt</title>
+                        <p>
+                            0.6 teaspoon
+                        </p>
+                    </li>
+                    <li>
+                        <title>Canola oil</title>
+                        <p>
+                            3 tablespoons
+                        </p>
+                    </li>
+                    <li>
+                        <title>Extra light olive oil</title>
+                        <p>
+                            0.5 tablespoon
+                        </p>
+                    </li>
+                </dl>
+            </p>
+        </paragraphs>
+
+        <paragraphs>
+            <title>Steps</title>
+            <p>
+                <ol>
+                    <li>
+                        <p>
+                            Proof yeast with a little sugar in water. Mix flour, salt, and sugar in bowl. Add proofed yeast mixture, then oil, mix with a spoon just until it comes together (about 10 seconds). Transfer to kneading board and shape into a rough ball--it should come together right away. Knead by hand for exactly 2 minutes--it should be a nice, pliable ball of dough.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Let rise at room temperature (I put mine in the oven and give it a short blast of 250 heat--a minute or so--once every 2 hours) for 8-10 hours. The dough will not rise as much as bread dough (which is kneaded longer). After the rise, punch and let the dough relax for 10 minutes or so to let the gluten relax.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Let rise at room temperature (I put mine in the oven and give it a short blast of 250 heat--a minute or so--once every 2 hours) for 8-10 hours. The dough will not rise as much as bread dough (which is kneaded longer). 
+                        </p>
+                    </li>
+                </ol>
+            </p>
+        </paragraphs>
+    </subsection> 
+
+    <subsection>
+        <title>Derek's pizza sauce</title>
+        <paragraphs>
+            <title>Ingredients</title>
+            <p></p>
+            <p>
+                <alert>Yield:</alert> Likely enough for two pizzas
+            </p>
+            <p>            
+                <dl>
+                    <li>
+                        <title>Cento All-in-One Tomatoes</title>
+                        <p>
+                            One 28-oz can
+                        </p>
+                    </li>
+                    <li>
+                        <title>Italian seasoning</title>
+                        <p>
+                            To taste
+                        </p>
+                    </li>
+                    <li>
+                        <title>Garlic salt</title>
+                        <p>
+                            To taste
+                        </p>
+                    </li>
+                    <li>
+                        <title>Garlic powder</title>
+                        <p>
+                            To taste
+                        </p>
+                    </li>
+                    <li>
+                        <title>Crushed red pepper</title>
+                        <p>
+                            To taste
+                        </p>
+                    </li>
+                    <li>
+                        <title>Fennel seed</title>
+                        <p>
+                            To taste, broken up with a mortar and pestle
+                        </p>
+                    </li>
+                </dl>
+            </p>
+        </paragraphs>
+
+        <paragraphs>
+            <title>Steps</title>
+            <p>
+                Mix ingredients and bring to a simmer until flavors blend.
+            </p>
+        </paragraphs>
+    </subsection> 
+    
     
 
 </section>

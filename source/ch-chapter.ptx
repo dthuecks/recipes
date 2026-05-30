@@ -9,9 +9,11 @@
 
   <!-- include sections -->
   <xi:include href="sec-pizza-giordanos.ptx" />
-  <!--<xi:include href="sec-pizza-pequods.ptx" />-->
+  <xi:include href="sec-pizza-pequods.ptx" />
   <xi:include href="sec-pizza-chicagotavern.ptx" />
   <xi:include href="sec-korean-fire-chicken.ptx" />
+  <xi:include href="sec-spicy-velveeta-hamburger-dip.ptx" />
+
 
   
 

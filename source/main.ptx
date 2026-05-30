@@ -12,7 +12,10 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter.ptx" />
+    <xi:include href="./ch-apps.ptx" />
+    <xi:include href="./ch-pizza.ptx" />
+    <xi:include href="./ch-korean.ptx" />
+    <!--<xi:include href="./ch-unorganized.ptx" />-->
 
 
     <!-- Include backmatter -->
