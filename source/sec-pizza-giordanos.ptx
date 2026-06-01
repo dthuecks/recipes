@@ -6,7 +6,6 @@
         <p>
             IMAGE TO COME
         </p>
-    </introduction>
     <p>
         <ol>
             <li>
@@ -48,6 +47,7 @@
             </li>
         </ol>
     </p> 
+    </introduction>
 
     <subsection xml:id="subsec-giordanos-crust">
         <title>Giordano's-style pizza crust</title>

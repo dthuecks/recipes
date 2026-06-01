@@ -9,7 +9,6 @@
         <p>
             IMAGE TO COME
         </p>
-    </introduction>
     <p>
         <ol>
             <li>
@@ -61,6 +60,7 @@
             </li>
         </ol>
     </p> 
+    </introduction>
 
     <subsection xml:id="subsec-pequods-crust">
         <title>Pizza crust</title>
