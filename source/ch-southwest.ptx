@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-southwest" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Southwest</title>
+
+    <xi:include href="./sec-green-chile.ptx" />
+    <xi:include href="./sec-mexican-meat-mix.ptx" />
+
+</chapter>

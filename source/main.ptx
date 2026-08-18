@@ -14,7 +14,9 @@
     <!-- Include chapters -->
     <xi:include href="./ch-apps.ptx" />
     <xi:include href="./ch-pizza.ptx" />
+    <xi:include href="./ch-southwest.ptx" />
     <xi:include href="./ch-korean.ptx" />
+    <xi:include href="./ch-beans.ptx" />
     <xi:include href="./ch-grill.ptx" />
 
 
