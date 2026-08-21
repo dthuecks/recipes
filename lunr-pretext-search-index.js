@@ -91,6 +91,24 @@ var ptx_lunr_docs = [
   "body": " Grilled Portobello Mushroom Burgers   Source: Erin Clarke ( wellplated.com )  IMAGE TO COME    Ingredients    Yield: 4 servings     Portobello Mushrooms  4 large mushrooms, stems and gills removed, wiped clean    Balsamic Vinegar  1\/4 cup    Extra Virgin Olive Oil  1 tablespoon    Soy sauce  1 tablespoon    Fresh Rosemary  1 tablespoon, chopped (or 1\/2 teaspoon dried)    Garlic Powder  1 teaspoon    Ground Black Pepper  1\/2 teaspoon    Cayenne Pepper  1\/8 teaspoon    Hamburger Buns    Cheddar Cheese  Sliced    Hamburger Toppings       Steps     Place mushrooms in shallow baking dish.    Whisk together balsamic vinegar, olive oil, soy sauce, rosemary, garlic powder, black pepper, cayenne.    Pour mixture over mushrooms. Turn mushrooms several times, ensuring they are fully coated. Let mushrooms sit in the mixture for five minutes on each side.    Prepare the grill for two-zone grilling.    Brush the grill with oil to prevent sticking.    Remove mushrooms from baking dish and shake off excess marinade back into the baking dish. Reserve all remaining marinade for basting.    Grill mushrooms on each side for 3-4 minutes or until caramelized and deep golden brown. Use a basting brush to baste the mushrooms with the marinade while grilling.    When cooked, move mushrooms to indirect grilling and apply slices of cheddar. Close the grill until cheese is melted.    Remove mushrooms from grill.    Place mushrooms on a hamburger bun in the same way that a hamburger would be served. Apply your favorite hamburger toppings.      "
 },
 {
+  "id": "sec-jims-casserole",
+  "level": "1",
+  "url": "sec-jims-casserole.html",
+  "type": "Section",
+  "number": "7.1",
+  "title": "Jim’s casserole",
+  "body": " Jim's casserole   Source: Jim Butz  IMAGE TO COME    Ingredients    Yield: Approximately 6-8 servings.     Tomato sauce  16 oz can    Ground beef  1 pound    Diced tomatoes  16 oz can    Elbow macaroni  1 cup, uncooked    Garlic salt  1 tsp    Italian seasoning  1 tsp    Ground black pepper  One dash    Worcestershire sauce  6 shakes    Cheddar cheese  Sliced, enough to cover two layers. Approximately 12-14 oz.       Steps     Brown the ground beef.    Cook the macaroni.    To the meat, add tomatoes, tomato sauce, garlic salt, Italian seasoning, pepper, and Worcestershire sauce. Simmer for 5-10 minutes.    Put half of the mixture into a glass or stoneware baking dish and cover with cheese slices.    Add the remaining mixture and cover again with cheese slices.    Heat in microwave until cheese melts, approximately 10 minutes.      Note: To make in a skillet, add 1 cup of hot water, 1 1\/2 cups macaroni, and cook for 20 minutes.   "
+},
+{
+  "id": "sec-meatloaf",
+  "level": "1",
+  "url": "sec-meatloaf.html",
+  "type": "Section",
+  "number": "7.2",
+  "title": "Meatloaf",
+  "body": " Meatloaf   Source: Jim Butz  IMAGE TO COME    Ingredients    Yield: Approximately 6 servings.     Pork sausage (e.g. Jimmy Deans, regular)  8 oz (1\/2 roll)    Ground beef  16 oz    Bread  3 crust slices, cubed    Egg  One egg    Dried minced onion  To taste    Salt  To taste    Ground black pepper  To taste    Ketchup  Ample    Worcestershire sauce or A-1 sauce  To taste       Steps     Pre-heat oven to F.    Use hands to mix all ingredients in a large mixing bowl.    Place mixture in a bread tin or silicone mold.    Bake 45-60 minutes.      "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
