@@ -18,6 +18,7 @@
     <xi:include href="./ch-korean.ptx" />
     <xi:include href="./ch-beans.ptx" />
     <xi:include href="./ch-grill.ptx" />
+    <xi:include href="./ch-unsorted.ptx" />
 
 
     <!-- Include backmatter -->
